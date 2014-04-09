@@ -13,7 +13,7 @@ python pf83_baseline.py <DATASET_PATH>
 You should expect as output something like this:
 
 ```
-accuracy...
+mean accuracy (+/- std. error): 87.1446 (+/- 0.282869)
 ```
 
 Requirements:
@@ -24,7 +24,7 @@ Requirements:
 * [scikit-learn](http://scikit-learn.org/)>=0.12
 * 8GB of RAM
 
-Make sure they are all available in your python environment.
+Make sure they are all available in your python environment. Note that accuracy may vary a bit according to the installed version of scikit-learn.
 
 #####[[1]](http://www.coxlab.org/pdfs/cvpr2011_ws_fb_manuscript.pdf) Nicolas Pinto, Zak Stone, Todd Zickler, and David D. Cox, “Scaling-up Biologically-Inspired Computer Vision: A Case-Study on Facebook,” in IEEE Computer Vision and Pattern Recognition, Workshop on Biologically Consistent Vision, 2011.
 
