@@ -1,7 +1,3 @@
-"""Minimal script to execute the 90/10 baseline result on PubFig83 following
-the original evaluation protocol
-"""
-
 # Authors: Giovani Chiachia <giovani.chiachia@gmail.com>
 #
 # License: BSD

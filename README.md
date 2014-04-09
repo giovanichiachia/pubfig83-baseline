@@ -2,7 +2,7 @@ The python code found in this repository is aimed at reproducing the 90/10 basel
 
 * Install the python package [convnet-rfw](http:/github.com/giovanichiachia/convnet-rfw).
 
-* Download and extract the original or the aligned version of PubFig83.
+* Download and extract the [original](https://dl.dropboxusercontent.com/u/275083/pubfig83.zip) or the [aligned](https://www.dropbox.com/s/0ez5p9bpjxobrfv/pubfig83-aligned.tar.bz2) version of PubFig83.
 
 * Clone/fork this repository and execute the code made available from its root path with:
 
@@ -25,3 +25,6 @@ Requirements:
 * 8GB of RAM
 
 Make sure they are all available in your python environment.
+
+#####[[1]](http://www.coxlab.org/pdfs/cvpr2011_ws_fb_manuscript.pdf) Nicolas Pinto, Zak Stone, Todd Zickler, and David D. Cox, “Scaling-up Biologically-Inspired Computer Vision: A Case-Study on Facebook,” in IEEE Computer Vision and Pattern Recognition, Workshop on Biologically Consistent Vision, 2011.
+
