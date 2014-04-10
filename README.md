@@ -10,10 +10,10 @@ The python code found in this repository is aimed at reproducing the 90/10 basel
 python pf83_baseline.py <DATASET_PATH>
 ```
 
-You should expect as output something like this:
+On the aligned version of the dataset, you should expect as output something like this:
 
 ```
-mean accuracy (+/- std. error): 87.1446 (+/- 0.282869)
+mean accuracy (+/- std. error): 87.1325 (+/- 0.243494)
 ```
 
 Requirements:
@@ -26,5 +26,5 @@ Requirements:
 
 Make sure they are all available in your python environment. Note that accuracy may vary a bit according to the installed version of scikit-learn.
 
-#####[[1]](http://www.coxlab.org/pdfs/cvpr2011_ws_fb_manuscript.pdf) Nicolas Pinto, Zak Stone, Todd Zickler, and David D. Cox, “Scaling-up Biologically-Inspired Computer Vision: A Case-Study on Facebook,” in IEEE Computer Vision and Pattern Recognition, Workshop on Biologically Consistent Vision, 2011.
+[[1]](http://www.coxlab.org/pdfs/cvpr2011_ws_fb_manuscript.pdf) Nicolas Pinto, Zak Stone, Todd Zickler, and David D. Cox, “Scaling-up Biologically-Inspired Computer Vision: A Case-Study on Facebook,” in IEEE Computer Vision and Pattern Recognition, Workshop on Biologically Consistent Vision, 2011.
 
